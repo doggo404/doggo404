@@ -9,9 +9,6 @@
       <a href="https://www.gnu.org/software/bash/">
          <img src="/img/bash.png" style="vertical-align:top; margin:6px 4px">
       </a>
-      <a href="https://neovim.io/">
-	<img src="/img/neovim.png" style="vertical-align:top; margin:6px 4px">
-      </a>
    </p>
    <p align="center">
       <a href="https://en.wikipedia.org/wiki/HTML">
@@ -19,9 +16,6 @@
       </a>
       <a href="https://en.wikipedia.org/wiki/CSS">
          <img src="/img/css3.png" style="vertical-align:top; margin: 6px 4px">
-      </a>
-      <a href="https://www.latex-project.org/">
-         <img src="/img/latex.png" style="vertical-align:top; margin: 6px 4px">
       </a>
       <a href="https://en.wikipedia.org/wiki/Markdown">
          <img src="/img/md.png" style="vertical-align:top; margin; 6px 4px">
