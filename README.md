@@ -24,4 +24,4 @@
 
 
 ![doggo404 github stats](https://github-readme-stats.vercel.app/api?username=doggo404&theme=tokyonight&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doggo404&theme=tokyonight&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doggo404&theme=tokyonight&count_private=true)
