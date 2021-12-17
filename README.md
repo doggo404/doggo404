@@ -1,7 +1,7 @@
 <h1 align="center">Hey, im doggo404</h1><br>
    <p align="center">
-      <a href="https://pop.system76.com/">
-	<img src="/img/pop_os.png" style="vertical-align:top; margin:6px 4px">
+      <a href="https://gentoo.org/">
+	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGentoo_Linux_logo_matte.svg&psig=AOvVaw1SdBholkDH1-wM9rbGmVey&ust=1639859878676000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiMo5_Y6_QCFQAAAAAdAAAAABAD" style="vertical-align:top; margin:6px 4px">
       </a>
       <a href="https://www.python.org/">
 	<img src="/img/python.png" style="vertical-align:top; margin:6px 4px">
