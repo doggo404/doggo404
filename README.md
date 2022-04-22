@@ -1,7 +1,7 @@
 <h1 align="center">Hey, im doggo404</h1><br>
    <p align="center">
       <a href="https://gentoo.org/">
-	<img src="/img/Gentoo_Linux_logo_matte.svg.png" style="vertical-align:top; margin:6px 4px">
+	<img src="/img/Gentoo_Linux_logo_matte.svg.png" style="vertical-align:top; margin:6px 4px" width="56" height="64">
       </a>
       <a href="https://www.python.org/">
 	<img src="/img/python.png" style="vertical-align:top; margin:6px 4px">
